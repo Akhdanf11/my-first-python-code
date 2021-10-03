@@ -1,0 +1,1 @@
+print("asi ibu mantap")
